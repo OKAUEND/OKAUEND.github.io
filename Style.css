@@ -1,0 +1,42 @@
+body{
+    color:black;
+    margin:0;
+    padding:0;
+    line-height :150%;
+}
+
+.show_width{
+    width:700px;
+    margin :10px;
+}
+
+section img{
+    float:left;
+    text-align:center;
+    width:50px;
+    height:50px;
+    margin:10px 20px;
+    margin-top:15px;
+}
+
+#skill{
+    margin :0px 30px;
+}
+
+#profile h2{
+    margin-left:10px;
+    margin-bottom:0px;
+    line-height: 10%;
+}
+
+.panel{
+    background:#cbf0d7;
+    border:1px solid black;
+    border-radius:5px;
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    width: 70%;
+    margin:10px;
+    padding:10px;
+    min-height:80px;
+}
